@@ -1,0 +1,31 @@
+.header{
+    background-color: white;
+    padding: 10px;
+    float: none;
+    border-radius: 9px;
+    color: rgb(6, 13, 14);
+    box-shadow: 5px 5px 10px blue;
+}
+.header_div{
+    font-size:25px;
+    width: 100%;
+    font-family: 'cursive';
+    box-shadow: 4px 4px 10px blue;
+    margin: 0px;
+}
+.header_div2{
+    color: whitesmoke;
+    font-size: 15px;
+    font-style: italic;
+}
+.result_para_tag{
+    box-shadow: 4px 4px 5px blue;
+    font-size: 20px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 25px red;
+    margin-top:150px;
+}
